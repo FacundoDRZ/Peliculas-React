@@ -1,0 +1,44 @@
+[
+    {
+        "img": "../img/avatar.jpg",
+        "titulo": "Avatar",
+        "synopsis": "Año 2154. Jake Sully (Sam Worthington), un ex-marine condenado a vivir en una silla de ruedas, sigue siendo, a pesar de ello, un auténtico guerrero. Precisamente por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Esos cuerpos han sido creados con ADN humano, mezclado con ADN de los nativos de Pandora, los Na'vi. Convertido en avatar, Jake puede caminar otra vez.",
+        "director": "James Cameron",
+        "reparto": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Michelle Rodriguez, Giovanni Ribisi, Joel David Moore, Wes Studi, CCH Pounder, Laz Alonso",
+        "duracion": "2h 41min"
+    },
+    {
+        "img": "../img/HarryPotter.jpg",
+        "titulo": "Harry Potter y la orden del Fénix",
+        "synopsis": "Las tediosas vacaciones en casa de sus tíos todavía no han acabado y Harry se encuentra más inquieto que nunca. Apenas ha tenido noticias de Ron y Hermione y presiente que algo extraño está sucediendo en Hogwarts. En efecto, cuando por fin empieza el curso, sus temores se hacen realidad. El Ministerio de Magia niega que Voldemort haya regresado e inicia una campaña de desprestigio contra Harry y Dumbledore, encomendando a la horrible profesora Dolores Umbridge la tarea de vigilar todos sus movimientos. Así, pues, además de sentirse solo e incomprendido, Harry sospecha que Voldemort puede adivinar sus pensamientos e intuye que el temible mago trata de apoderarse de un objeto secreto que le permitiría recuperar su destructivo poder.",
+        "director": "David Yates",
+        "reparto": "Daniel Radcliffe, Emma Watson, Rupert Grint, Imelda Staunton, Gary Oldman, Michael Gambon, Matthew Lewis, Alan Rickman, Tom Felton, Ralph Fiennes",
+        "duracion": "2h 18min"
+    },
+    {
+        "img": "../img/Conjuro.jpg",
+        "titulo": "El Conjuro",
+        "synopsis": "Secuela de la exitosa 'Expediente Warren' (2013) que presenta un caso real de los renombrados demonólogos Ed y Lorraine Warren. Para resolverlo viajan al norte de Londres para ayudar a una madre soltera que vive con sus cuatro hijos en una casa plagada de espíritus malignos.",
+        "director": "James Wan",
+        "reparto": "Vera Farmiga, Patrick Wilson, Frances O'Connor, Madison Wolfe, Lauren Esposito, Patrick McAuley, Benjamin Haigh, Maria Doyle Kennedy, Simon Delaney, Franka Potente",
+        "duracion": "1h 13min"
+    },
+
+    {
+        "img": "../img/simpson.jpg",
+        "titulo": "Los Simpson: La Pelicula",
+        "synopsis": "Homer debe salvar al mundo de una catástrofe que él mismo ha provocado. Todo comienza con Homer, su nueva mascota, un cerdo, y un silo lleno de excrementos que tiene una fuga, una combinación que desencadena un desastre distinto a todo lo que Springfield haya experimentado jamás. Mientras Marge está indignada por la monumental metedura de pata de su patán marido, una turba vengativa cae sobre el hogar de los Simpson...",
+        "director": "David Silverman",
+        "reparto": "Animación",
+        "duracion": "87min"
+    },
+    {
+        "img": "../img/Vida.jpg",
+        "titulo": "Una aventura extraordinaria",
+        "synopsis": "Tras un naufragio en medio del océano Pacífico, el joven hindú Pi, hijo de un guarda de zoo que viajaba de la India a Canadá, se encuentra en un bote salvavidas con un único superviviente, un tigre de bengala con quien labrará una emocionante, increíble e inesperada relación",
+        "director": "Ang Lee",
+        "reparto": "Ang Lee",
+        "duracion": "2h 7min"
+    }
+
+]
